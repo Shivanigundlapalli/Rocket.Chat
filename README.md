@@ -53,7 +53,7 @@ In addition to the web app, you can also download the Rocket.Chat mobile app:
 
 [![Rocket.Chat on Apple App Store](https://user-images.githubusercontent.com/551004/29770691-a2082ff4-8bc6-11e7-89a6-964cd405ea8e.png)](https://itunes.apple.com/us/app/rocket-chat/id1148741252?mt=8) [![Rocket.Chat on Google Play](https://user-images.githubusercontent.com/551004/29770692-a20975c6-8bc6-11e7-8ab0-1cde275496e0.png)](https://play.google.com/store/apps/details?id=chat.rocket.android)
 
-Download the desktop app:
+Desktop app download options:
 - [Download on the Mac App Store](https://apps.apple.com/us/app/rocket-chat/id1086818840?mt=12)
 - [Install from the Windows Store](https://apps.microsoft.com/detail/9nblggh52jv6?hl=en-us&gl=NG&ocid=pdpshare)
 - [Get from Snapcraft for Linux](https://snapcraft.io/rocketchat-desktop) or use the command `sudo snap install rocketchat-desktop`
